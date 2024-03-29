@@ -2288,7 +2288,7 @@ a.btn {
 .home {
   position: relative;
   overflow: hidden;
-  background: url("../../images/ext_images/bg-home.077d3cd1b315.jpg") no-repeat 50% 100%/100% 100%;
+  background: url("../../images/ext_images/grey_hexagons_on_black_background.jpg") no-repeat 50% 100%/100% 100%;
 }
 
 .home__center {
@@ -2362,7 +2362,7 @@ a.btn {
   width: 5px;
   height: 5px;
   border-radius: 50%;
-  background: #859CFF;
+  background: #53555a;
 }
 
 .home__ball_5 {
@@ -2372,7 +2372,7 @@ a.btn {
   width: 5px;
   height: 5px;
   border-radius: 50%;
-  background: #859CFF;
+  background: #53555a;
 }
 
 .home__ball_6 {
@@ -2381,9 +2381,9 @@ a.btn {
   top: -5px;
   width: 10px;
   height: 10px;
-  border: 1px solid #7591FF;
+  border: 1px solid #53555a;
   border-radius: 50%;
-  background: #5C7AFE;
+  background: #53555a;
 }
 
 .home__ball_mobile {
@@ -2453,7 +2453,7 @@ a.btn {
 
 .desc {
   padding: 70px 0 120px;
-  background: url("../../images/ext_images/bg-desc.c44f5f4372d0.jpg") no-repeat 50% 0/cover;
+  background: url("../../images/ext_images/149283791_f3155385-93ea-4f7a-9cd4-dea2860aa21b.jpg") no-repeat 50% 0/cover;
   overflow: hidden;
 }
 
