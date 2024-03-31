@@ -1253,12 +1253,12 @@ button {
 }
 
 .btn_light-blue {
-  background-image: linear-gradient(to bottom, #45DEFF, #27BADE);
+  background-image: linear-gradient(to bottom, #156d81, #171818);
   color: #FEFEFE;
 }
 
 .btn_light-blue:hover {
-  background-image: linear-gradient(to bottom, #78e7ff, #53c8e5);
+  background-image: linear-gradient(to bottom, #0b5363, #313131);
 }
 
 .btn_blue {
@@ -2594,7 +2594,10 @@ a.btn {
 
 .desc__pic {
   max-width: 100%;
+  border-radius: 400px;
+  filter: brightness(0.95);
 }
+
 
 .desc__foot {
   text-align: center;
@@ -5820,6 +5823,7 @@ a.btn {
   .desc__preview {
     display: inline-block;
     margin: 0 -20px;
+    filter: brightness(100);
   }
 
   .desc__numbers {
