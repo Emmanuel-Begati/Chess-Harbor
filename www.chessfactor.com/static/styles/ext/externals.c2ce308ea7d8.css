@@ -2598,6 +2598,9 @@ a.btn {
   filter: brightness(0.95);
 }
 
+#gray_images{
+  filter: grayscale(60%);
+} 
 
 .desc__foot {
   text-align: center;
@@ -2823,7 +2826,7 @@ a.btn {
 .gallery__link {
   font-size: 20px;
   font-weight: 500;
-  color: #28C0EE;
+  color: #0f4c5e;
   transition: color .2s;
 }
 
