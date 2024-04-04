@@ -2594,8 +2594,11 @@ a.btn {
 
 .desc__pic {
   max-width: 100%;
-  border-radius: 400px;
   filter: brightness(0.95);
+}
+
+.with_border_radius{
+  border-radius: 400px;
 }
 
 #gray_images{

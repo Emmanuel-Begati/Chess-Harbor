@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.chessfactor.com	TRUE	/	FALSE	1999999999	csrftoken	BBEzALVoS3eIkJymQQ6bKxY1saIDUQRQyQVjho9ENs1wKOdoSn1wSYECJcDJlV3Z
-www.chessfactor.com	TRUE	/	FALSE	1999999999	sessionid	ajqodav9u297lgdaaod8xmdijnoaf3ml
-
