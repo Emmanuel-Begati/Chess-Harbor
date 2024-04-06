@@ -16,6 +16,9 @@ db.serialize(() => {
 // Serve static files from the 'public' folder
 app.use(express.static(path.join(__dirname, 'public')));
 
+import LogRocket from 'logrocket';
+LogRocket.init('35vzyr/chessharbor');
+
 // Route to handle form submission
 // Route to handle form submission
 app.post('/signup', (req, res) => {
