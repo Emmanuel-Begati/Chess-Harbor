@@ -2288,7 +2288,7 @@ a.btn {
 .home {
   position: relative;
   overflow: hidden;
-  background: url("../../images/ext_images/grey_hexagons_on_black_background.jpg") no-repeat 50% 100%/100% 100%;
+  background: url("../../images/ext_images/grey_hexagons_on_black_background-min.jpg") no-repeat 50% 100%/100% 100%;
 }
 
 .home__center {
@@ -2454,7 +2454,7 @@ a.btn {
 
 .desc {
   padding: 70px 0 120px;
-  background: url("../../images/ext_images/149283791_f3155385-93ea-4f7a-9cd4-dea2860aa21b.jpg") no-repeat 50% 0/cover;
+  background: url("../../images/ext_images/149283791_f3155385-93ea-4f7a-9cd4-dea2860aa21b-min.jpg ") no-repeat 50% 0/cover;
   overflow: hidden;
 }
 
