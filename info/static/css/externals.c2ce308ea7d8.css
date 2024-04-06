@@ -2289,7 +2289,7 @@ a.btn {
   .home {
     position: relative;
     overflow: hidden;
-      background-image: url("{% static 'images/ext_images/grey_hexagons_on_black_background-min.jpg' %}");
+      background-image: url("{ '../images/ext_images/grey_hexagons_on_black_background-min.jpg' }");
       background-repeat: no-repeat;
       background-position: 50% 100%;
       background-size: 100% 100%;
